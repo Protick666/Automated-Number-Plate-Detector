@@ -1,0 +1,7 @@
+key,valuie
+conv_filters,8
+kernel_size,3
+pool_size,2
+time_dense_size,8
+rnn_size,64
+batch_size,32
